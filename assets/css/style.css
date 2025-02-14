@@ -1,0 +1,11 @@
+/* Styling for the Custom Post Type Generator Admin Page */
+#cpt_name, #cpt_slug {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+form input[type="submit"] {
+    margin-top: 10px;
+}
